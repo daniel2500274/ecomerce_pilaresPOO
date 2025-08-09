@@ -46,9 +46,9 @@ namespace EG2_pilares_POO
             PagoConTarjeta pagoTarjeta = new PagoConTarjeta("1234-5678-9012-3456", "Juan Pérez", 10000);
             orden.AsignarMetodoPago(pagoTarjeta);
             Console.WriteLine("\n--- Intento 1: Pago con Tarjeta ---");
-            orden.ConfirmarCompra(); // Fallará por fondos insuficientes
+            orden.ConfirmarCompra(); 
 
-            // 2. Pago con transferencia (exitoso)
+            // 2. Pago con transferencia ( 
             PagoConTransferencia pagoTransferencia = new PagoConTransferencia("001-123456", "Banco Nacional", 20000);
             orden.AsignarMetodoPago(pagoTransferencia);
             Console.WriteLine("\n--- Intento 2: Pago con Transferencia ---");
@@ -56,13 +56,13 @@ namespace EG2_pilares_POO
             // Crear nueva orden porque la anterior falló
             Orden orden2 = new Orden(cliente, carrito);
             orden2.AsignarMetodoPago(pagoTransferencia);
-            orden2.ConfirmarCompra(); // Será exitoso
+            orden2.ConfirmarCompra();  
 
             Console.WriteLine(string.Format("\nPuntos del cliente después de la compra: {0}", cliente.SaldoPuntos));
 
-            // 3. Demostrar pago con puntos
+            // 3. Pago con puntos
             Console.WriteLine("\n--- Demostración: Pago con Puntos ---");
-            cliente.AgregarPuntos(200000); // Agregar más puntos para demostrar
+            cliente.AgregarPuntos(200000); 
             
             Carrito carritoChico = new Carrito();
             carritoChico.AgregarProducto(mouse);
