@@ -1,0 +1,15 @@
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/bin/Debug/net9.0/EG2_pilares_POO
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/bin/Debug/net9.0/EG2_pilares_POO.deps.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/bin/Debug/net9.0/EG2_pilares_POO.runtimeconfig.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/bin/Debug/net9.0/EG2_pilares_POO.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/bin/Debug/net9.0/EG2_pilares_POO.pdb
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.AssemblyInfoInputs.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.AssemblyInfo.cs
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.csproj.CoreCompileInputs.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.sourcelink.json
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/refint/EG2_pilares_POO.dll
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.pdb
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/EG2_pilares_POO.genruntimeconfig.cache
+/home/daniel/Desktop/src_universidad/segundo_semestre/ecomerce_pilaresPOO/EG2_pilares_POO/obj/Debug/net9.0/ref/EG2_pilares_POO.dll
